@@ -5,7 +5,7 @@
 Composer:
 ```
 "require": {
-    "byte/storage": "dev-master"
+    "byteGS/storage": "dev-master"
 }
 ```
 
